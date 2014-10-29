@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coinlauncher>
+    <basedir>C:\coins\</basedir>
+    <coins>
+        <coin>
+            <name>Bitcoin</name>
+            <binpath>bin\bitcoin-qt.exe</binpath>
+            <datadirpath>datadirs\bitcoin</datadirpath>
+        </coin>
+        <coin>
+        	<name>Litecoin</name>
+            <binpath>bin\litecoin-qt.exe</binpath>
+            <datadirpath>datadirs\litecoin</datadirpath>
+        </coin>
+    </coins>
+</coinlauncher>
